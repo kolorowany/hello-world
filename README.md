@@ -1,2 +1,1 @@
-# hello-world
-my first repository
+Witam, jestem kolorowanyy jestem  programistą-amatorem
